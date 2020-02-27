@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TabDataGridError
+﻿namespace TabDataGridError
 {
     public class ItemModel
     {
